@@ -5,14 +5,14 @@ Chat Application using Network Programming in Java
 
 -- Multiple Connections with Client
 ```
-    Add Project in from ./Multithreaded/MultithreadedClientServer to IntelliJ and run from there.
+Add Project in from ./Multithreaded/MultithreadedClientServer to IntelliJ and run from there.
 ```
 
 OR
 
 ```bash
-    java ./Multithreaded/MultithreadedClientServer/out/production/MultithreadedClientServer/Server // to Start the server
-    java ./Multithreaded/MultithreadedClientServer/out/production/MultithreadedClientServer/Client // to Client a Client.
+ java ./Multithreaded/MultithreadedClientServer/out/production/MultithreadedClientServer/Server // to Start the server
+ java ./Multithreaded/MultithreadedClientServer/out/production/MultithreadedClientServer/Client // to Client a Client.
 ```
 For Each connection, run the client execution command in multiple terminal instances.
 
