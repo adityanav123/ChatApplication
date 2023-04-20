@@ -3,5 +3,10 @@ Chat Application using Network Programming in Java
 
 ## Execution : 
 
-~ java ServerExample.java // start Server
-~ java ClientExample.java // attach Client to the Server
+
+```bash
+java ServerExample.java // Start the Server
+java ClientExample.java // Connect the Client to Server
+```
+
+What I want to do: To create a `Multi-User` Chat Application, with extra features by the side.
